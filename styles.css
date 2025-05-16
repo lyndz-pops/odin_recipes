@@ -1,0 +1,41 @@
+
+
+* {
+    background-color: #922E14;
+    margin: 4px;
+    color: #6C5C40;
+    font-family: "Arial";
+}
+
+.title {
+    background-color: #E1D9BD;
+    text-align: center; 
+    margin: 16px auto;
+    padding: 8px;
+    font-size: 50px;
+    width: 320px;
+    border: solid 3px;
+    border-color: #D69647;
+    border-radius: 15px;
+}
+
+.list {
+    background-color: #E1D9BD;
+    list-style-type: square;
+    padding: 10px;
+    margin: 4px auto;
+    border: solid 2px;
+    border-color: #D69647;
+    list-style-position: inside;
+    border-radius: 15px;
+    width: 400px;
+    font-size: 20px;
+}
+
+a {
+    background-color: #E1D9BD;
+}
+
+ul {
+    padding-left: 0;
+}
